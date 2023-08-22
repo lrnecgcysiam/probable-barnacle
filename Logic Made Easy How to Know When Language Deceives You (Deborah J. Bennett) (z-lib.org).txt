@@ -1,0 +1,227 @@
+Document Outline
+
+
+Cover
+
+Copyright page
+
+Contents
+
+Introduction: Logic Is Rare The Mistakes We Make
+
+Logic Should Be Everywhere
+
+How History Can Help
+
+
+
+
+
+1 Proof Consistency Is All I Ask
+
+Proof by Contradiction
+
+Disproof
+
+
+
+
+
+2 All All S are P
+
+Vice Versa
+
+Familiarity—Help or Hindrance?
+
+Clarity or Brevity?
+
+
+
+
+
+3 A NOT Tangles Everything Up The Trouble with Not
+
+Scope of the Negative
+
+A and E Propositions
+
+When No Means Yes —The "Negative Pregnant" and Double Negative
+
+
+
+
+
+4 SOME Is Part or All of ALL Some Is Existential
+
+Some Are; Some Are Not
+
+A, E, I, and O
+
+
+
+
+
+5 Syllogisms Sorites, or Heap
+
+Atmosphere of the "Sillygism"
+
+Knowledge Interferes with Logic
+
+Truth Interferes with Logic
+
+Terminology Made Simple
+
+
+
+
+
+6 When Things Are IFfy The Converse of the Conditional
+
+Causation
+
+The Contrapositive Conditional
+
+
+
+
+
+7 Syllogisms Involving IF, AND, and OR Disjunction, an "Or" Statement
+
+Conjunction, an "And" Statement
+
+Hypothetical Syllogisms
+
+Common Fallacies
+
+Diagramming Conditional Syllogisms
+
+
+
+
+
+8 Series Syllogisms
+
+9 Symbols That Express Our Thoughts Leibniz's Dream Comes True: Boolean Logic
+
+
+
+
+
+10 Logic Machines and Truth Tables Reasoning Machines
+
+Truth Tables
+
+True, False, and Maybe
+
+
+
+
+
+11 Fuzzy Logic, Fallacies, and Paradoxes Shaggy Logic
+
+Fallacies
+
+Paradoxes
+
+
+
+
+
+12 Common Logic and Language
+
+13 Thinking Well—Together Theories of Reasoning
+
+
+
+
+
+Notes Introduction
+
+Chapter 1
+
+Chapter 2
+
+Chapter 3
+
+Chapter 4
+
+Chapter 5
+
+Chapter 6
+
+Chapter 7
+
+Chapter 8
+
+Chapter 9
+
+Chapter 10
+
+Chapter 11
+
+Chapter 12
+
+Chapter 13
+
+
+
+
+
+References
+
+Acknowledgments
+
+Index A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+G
+
+H
+
+I
+
+J
+
+K
+
+L
+
+M
+
+N
+
+O
+
+P
+
+Q
+
+R
+
+S
+
+T
+
+U
+
+V
+
+W
+
+Y
+
+Z
+
+
+
+
+

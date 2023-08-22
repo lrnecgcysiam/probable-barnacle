@@ -1,0 +1,44 @@
+ Welcome Back,
+
+This is the Decision Architecture podcast. A podcast about how decisions define us and how they don’t. (giggles)
+
+But first what is Alpha Beta Pruning according to academia,
+
+** Plays the audio clip ** time.is.a.precious.gift.mp4
+*** pause for 3 seconds **** *** giggles *** 
+
+Yea what she said. Time is a precious gift  because you only have a set amount of it.
+You can make more money, but you can't make more time. When you give someone your time, 
+you are giving them a portion of your life that you'll never get back. Your time is your life 
+
+To avoid wasting too much time we should eliminate large amounts of choices from our decision tree
+very similar to how artificial intelligent agents do. With a technique called..... Alpha-beta Pruning.
+
+When alpha beta prunning is applied to a minimax tree it improves getting to the desired outcome without
+wasting time going down uncessary paths.
+
+Consider the Super Nintendo Game, Super Mario World.
+
+*** A video clip is playing ***
+
+If an intelligent agent is given the task to complete a level within the game the intelligent agent who never played the game 
+before would have to try different strategies or approaches down a decision tree before coming up with a path that would lead to 
+the goal.
+
+Decision...... wait ** 1 sec ***
+
+After Decision...... wait ** 1 sec ***
+
+Decision...... wait ** 1 sec ***
+
+*** Giggle *** Poor Mario.
+
+
+Luckily with alpha beta pruning our little intelligent agent would be able to save time doing something reckless like going left 
+instead right. Our Intelligent agent can prune away the idea that going left is a good idea or walking into object
+like that monster over there.
+
+So to summarize
+
+When trying to reduce the computation time by a huge factor by cutting off branches in the decision tree because
+there is a better branch available this is called ALPHA- BETA prunning
